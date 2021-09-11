@@ -1,0 +1,8 @@
+demo:
+  properties:
+    greet: good morning...have a nice day
+    message: 'please take your work seriously '
+    welcome: welcome to coforge
+
+server:
+  port: 9090

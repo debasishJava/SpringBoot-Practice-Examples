@@ -1,0 +1,11 @@
+package deb.lip.config;
+
+import org.springframework.stereotype.Component;
+
+@Component("appContants")
+public class AppConstants {
+
+	public static final String WELCOME_MSG = "Welcome" ;
+	public static final String GREET_MSG = "Greet" ;
+	public static final String PLAIN_MSG = "Message" ;
+}

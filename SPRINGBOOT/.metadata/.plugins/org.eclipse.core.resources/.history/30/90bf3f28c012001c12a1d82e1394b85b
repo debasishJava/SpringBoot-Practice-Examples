@@ -1,0 +1,5 @@
+server.port=9090
+
+demo.properties.welcome = welcome to coforge
+demo.properties.greet       = good morning...have a nice day
+demo.properties.message = please take your work seriously 

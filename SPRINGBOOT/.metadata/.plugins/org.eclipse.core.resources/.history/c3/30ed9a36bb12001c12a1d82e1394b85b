@@ -1,0 +1,5 @@
+package deb.lip.rest;
+
+public class ConfigPropertiesController {
+
+}

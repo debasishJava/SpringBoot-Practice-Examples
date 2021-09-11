@@ -1,0 +1,10 @@
+server.port = 9090
+
+#git repo location
+spring.cloud.config.server.git.uri = 
+
+#verify any repository issue in startup
+spring.cloud.config.server.git.clone-on-start = true
+
+#disable security of the management endpoint
+management.security.enabled = false

@@ -1,0 +1,8 @@
+package deb.lip.config;
+
+import org.springframework.stereotype.Component;
+
+@Component("appContants")
+public class AppConstants {
+
+}
